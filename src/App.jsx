@@ -28,7 +28,8 @@ function App() {
         <Cards/>
         <Section3/>
         {/* <Carosl/> */}
-        <Gradient/><Ex/>
+        <Gradient/>
+{/*         <Ex/> */}
         <Footer />
         {/* <Navbars
           title1={"Home"}
