@@ -11,7 +11,7 @@ import Cards from './components/Cards';
 import Section3 from './components/Section3';
 // import Carosl from "./components/Carosl";
 import Gradient from './components/Gradient';
-import Ex from './components/Ex';
+// import Ex from './components/Ex';
 
 
 function App() {
